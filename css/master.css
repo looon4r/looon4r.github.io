@@ -1,0 +1,28 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+div.header{
+  position: relative;
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  max-width: 1930px;
+}
+
+div.text{
+  position: relative;
+  top: 45%;
+  left: 50%
+}
+
+p.mem{
+  color: white;
+  margin: 0;
+  font-weight: bold;
+}
+
+button.delete{
+  margin-left: 10px;
+}
